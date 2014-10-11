@@ -1,8 +1,9 @@
 ---
-title       : 
-subtitle    : 
-author      : 
-job         : 
+title       : Slidify Learning Deck
+subtitle    : Because you can...
+author      : Mike Wimsatt
+job         : :)
+logo        : Grupo_Bimbo_logo.svg
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
